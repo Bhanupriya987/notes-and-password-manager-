@@ -1,1 +1,5 @@
-# notes-and-password-manager-
+# notes-and-password-manager-![Screenshot (678)](https://github.com/user-attachments/assets/ba2cf93e-8d56-4be2-80e9-e1f961f3bc80)
+![Screenshot (677)](https://github.com/user-attachments/assets/483239aa-317b-4a52-81ab-610877879b34)
+![Screenshot (681)](https://github.com/user-attachments/assets/70cfaf94-b28d-4d3a-bb10-751d47429a6d)
+![Screenshot (680)](https://github.com/user-attachments/assets/a475bedd-a28a-4e0d-b59d-78d3f274d261)
+![Screenshot (679)](https://github.com/user-attachments/assets/3925a782-c7e8-4ebc-8d38-ef205e3a5082)
